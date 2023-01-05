@@ -1,0 +1,78 @@
+*{
+ 
+}
+
+.body{
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.divpra3{
+    background-color: darksalmon;
+    padding: 18px;
+    width: 500px;
+    border: 3px solid rgb(20, 36, 59);
+    border-radius: 30px;
+}
+
+.header {
+    background-color: #cdc99e;
+    height: 400px;
+    margin-top: 30px;
+    background-image: url('../images/Mount.jpg') ;
+    background-blend-mode: multiply;
+    background-size: 1510px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.pra3{
+    color: rgb(13, 64, 77);
+    background-color: darkgray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    font-weight: 600;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+}
+
+.span1 {
+    color: rgb(252, 230, 165);
+    background-color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.span2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin: 0px;
+    display: inline-block;
+    background-color: burlywood;
+    color: #4a9978;
+}
+
+.anchor1{
+    color:#d0d1b7;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p1{
+    color: aliceblue;
+    background-color: #2b7e5b;
+    padding: 10px;
+    box-shadow:#6b5da3 10px 10px 30px;
+    margin: 30px;
+    display: inline-block;
+    width: 25%;
+}
+
